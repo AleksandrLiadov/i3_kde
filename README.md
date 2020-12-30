@@ -1,2 +1,2 @@
 # i3_kde
-Add i3 for KDE Plasma
+Add i3 to KDE Plasma
